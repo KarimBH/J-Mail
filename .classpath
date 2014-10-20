@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk 1.7"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/javamail/dsn.jar"/>
+	<classpathentry kind="lib" path="lib/javamail/gimap.jar"/>
+	<classpathentry kind="lib" path="lib/javamail/imap.jar"/>
+	<classpathentry kind="lib" path="lib/javamail/mail.jar"/>
+	<classpathentry kind="lib" path="lib/javamail/mailapi.jar"/>
+	<classpathentry kind="lib" path="lib/javamail/pop3.jar"/>
+	<classpathentry kind="lib" path="lib/javamail/smtp.jar"/>
+	<classpathentry kind="lib" path="lib/HtmlToPdf/yahp.jar"/>
+	<classpathentry kind="lib" path="lib/HtmlToPdf/core-renderer.jar"/>
+	<classpathentry kind="lib" path="lib/HtmlToPdf/jaxen-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/HtmlToPdf/jtidy-r938.jar"/>
+	<classpathentry kind="lib" path="lib/HtmlToPdf/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="lib/HtmlToPdf/shani-parser-v1.4.17.jar"/>
+	<classpathentry kind="lib" path="lib/HtmlToPdf/xml-apis.jar"/>
+	<classpathentry kind="lib" path="lib/HtmlToPdf/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="lib/HtmlToPdf/yahp-internal.jar"/>
+	<classpathentry kind="lib" path="lib/JWebEngine.jar"/>
+	<classpathentry kind="lib" path="lib/DJNativeSwing-SWT.jar"/>
+	<classpathentry kind="lib" path="lib/DJNativeSwing-SWTDemo.jar"/>
+	<classpathentry kind="lib" path="lib/DJNativeSwing.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
